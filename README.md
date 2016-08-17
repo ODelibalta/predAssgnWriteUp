@@ -184,6 +184,9 @@ print( confusionMatrix( predict_validation, validation$classe ) )
     ## Detection Prevalence    0.285   0.1987   0.1751   0.1594   0.1818
     ## Balanced Accuracy       1.000   1.0000   1.0000   1.0000   1.0000
 
+Our cross validation is at %95 which is acceptable
+
+
 Final step - Test set
 ---------------------
 
